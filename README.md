@@ -1,5 +1,7 @@
 # 6-project-for-ML
 
+THIS PROJECT NEEDS SOME MODIFICATIONS BECAUSE IT IS NOT FINISHED YET!!
+
 The project is an AI learning project aimed at applying a facial image classification algorithm to determine whether an image contains a human face or not. TensorFlow library and artificial neural network are used to build and train the model on a dataset downloaded using TensorFlow Datasets.
 
 The process is divided into several steps, starting from importing libraries and loading the data, then preparing the data for training and testing, and building the model, which is trained using the processed data. After that, the model's performance is evaluated using the test set.
